@@ -1,5 +1,3 @@
-This is the first line 8/18/2017 (JF)
-
 How to share data with a statistician
 ===========
 
